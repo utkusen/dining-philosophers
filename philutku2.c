@@ -15,7 +15,7 @@
                                   |_| 
 
 Dining Philosophers Conductor Solution (with mutexes and semaphores)
-Coded by Utku Sen / 110200040
+Coded by Utku Sen 
 Compile: gcc -pthread -o philutku2 philutku2.c
 
 */
